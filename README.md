@@ -1,79 +1,50 @@
-Mentor Hub - Project Tracker & Planner 🚀
+<h2>Mentor Hub - Project Tracker & Planner 🚀</h2>
 
-Overview 🎯
+<h3>Overview 🎯</h3>
 
 Mentor Hub is a collaborative platform designed for students, professionals, and academic institutions to mentor, track, and manage projects efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this system provides an interactive environment where mentors and teams can:
 
 🤝 Collaborate in real-time
-
 📅 Plan tasks & manage deadlines seamlessly
-
 📊 Track project progress efficiently
-
 ⚡ Enhance teamwork & productivity
 
 Features ✨
-
 🔹 User Management
-
 Secure user authentication & authorization (JWT-based login/signup)
-
 Role-based access control for mentors, students, and admins
-
 User profile management with editable details
 
 🔹 Project & Task Management
-
 📌 Create & manage projects with descriptions, deadlines, and assigned teams
-
 📝 Task assignment with priorities, due dates, and status updates
-
 📊 Kanban Board & Gantt Chart Integration for workflow visualization
-
 🔔 Real-time notifications & reminders
-
 📂 File & Document sharing for project resources
 
 🔹 Collaboration Tools
-
 🗨️ Real-time chat & discussion forums
-
 📣 Mentor feedback & progress review system
-
 📢 Announcements & team communication
 
 🔹 Dashboard & Insights
-
 📈 Project analytics – track progress, completion rates, and productivity metrics
-
 📊 Task status overview – pending, in-progress, and completed tasks
-
 📆 Upcoming deadlines & important events
 
 Tech Stack 🛠️
-
 Frontend: React.js (with Redux for state management, Material-UI for UI components)
-
 Backend: Node.js with Express.js (RESTful API)
-
 Database: MongoDB (Mongoose for data modeling)
-
 Authentication: JWT (JSON Web Token)
-
 Real-time Features: Socket.io (for chat & notifications)
-
 Deployment: Heroku / Vercel (Frontend), MongoDB Atlas (Database)
 
 Installation & Setup 🛠️
-
 Prerequisites 📌
-
 Ensure you have the following installed:
-
 Node.js (v14+)
-
 MongoDB (local or Atlas)
-
 Git
 
 Step 1: Clone the Repository
