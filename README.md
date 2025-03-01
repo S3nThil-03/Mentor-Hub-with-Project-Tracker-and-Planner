@@ -7,28 +7,28 @@ Mentor Hub is a collaborative platform designed for students, professionals, and
 🤝 Collaborate in real-time<br>
 📅 Plan tasks & manage deadlines seamlessly<br>
 📊 Track project progress efficiently<br>
-⚡ Enhance teamwork & productivity<br>
+⚡ Enhance teamwork & productivity
 
-<h3>Features ✨</h3><br>
+<h3>Features ✨</h3>
 <h3>🔹User Management</h3><br>
 Secure user authentication & authorization (JWT-based login/signup). Role-based access control for mentors, students, and admins. User profile management with editable details
 
-<h3>🔹Project & Task Management</h3><br>
+<h3>🔹Project & Task Management</h3>
 📌 Create & manage projects with descriptions, deadlines, and assigned teams<br>
 📝 Task assignment with priorities, due dates, and status updates<br>
 📊 Kanban Board & Gantt Chart Integration for workflow visualization<br>
 🔔 Real-time notifications & reminders<br>
-📂 File & Document sharing for project resources<br>
+📂 File & Document sharing for project resources
 
-<h3>🔹Collaboration Tools</h3><br>
+<h3>🔹Collaboration Tools</h3>
 🗨️ Real-time chat & discussion forums<br>
 📣 Mentor feedback & progress review system<br>
-📢 Announcements & team communication<br>
+📢 Announcements & team communication
 
-🔹 Dashboard & Insights
-📈 Project analytics – track progress, completion rates, and productivity metrics
-📊 Task status overview – pending, in-progress, and completed tasks
-📆 Upcoming deadlines & important events
+<h3>🔹 Dashboard & Insights</h3>
+📈 Project analytics – track progress, completion rates, and productivity metrics<br>
+📊 Task status overview – pending, in-progress, and completed tasks<br>
+📆 Upcoming deadlines & important events<br>
 
 Tech Stack 🛠️
 Frontend: React.js (with Redux for state management, Material-UI for UI components)
