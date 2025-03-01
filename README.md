@@ -2,25 +2,25 @@
 
 <h3>Overview 🎯</h3>
 
-Mentor Hub is a collaborative platform designed for students, professionals, and academic institutions to mentor, track, and manage projects efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this system provides an interactive environment where mentors and teams can:
+Mentor Hub is a collaborative platform designed for students, professionals, and academic institutions to mentor, track, and manage projects efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this system provides an interactive environment where mentors and teams can:<br>
 
-🤝 Collaborate in real-time
-📅 Plan tasks & manage deadlines seamlessly
-📊 Track project progress efficiently
-⚡ Enhance teamwork & productivity
+🤝 Collaborate in real-time<br>
+📅 Plan tasks & manage deadlines seamlessly<br>
+📊 Track project progress efficiently<br>
+⚡ Enhance teamwork & productivity<br>
 
-Features ✨
-🔹 User Management
-Secure user authentication & authorization (JWT-based login/signup)
-Role-based access control for mentors, students, and admins
-User profile management with editable details
+<h3>Features ✨</h3><br>
+🔹 User Management<br>
+Secure user authentication & authorization (JWT-based login/signup)<br>
+Role-based access control for mentors, students, and admins<br>
+User profile management with editable details<br>
 
-🔹 Project & Task Management
-📌 Create & manage projects with descriptions, deadlines, and assigned teams
-📝 Task assignment with priorities, due dates, and status updates
-📊 Kanban Board & Gantt Chart Integration for workflow visualization
-🔔 Real-time notifications & reminders
-📂 File & Document sharing for project resources
+<h3>🔹 Project & Task Management</h3><br>
+📌 Create & manage projects with descriptions, deadlines, and assigned teams<br>
+📝 Task assignment with priorities, due dates, and status updates<br>
+📊 Kanban Board & Gantt Chart Integration for workflow visualization<br>
+🔔 Real-time notifications & reminders<br>
+📂 File & Document sharing for project resources<br>
 
 🔹 Collaboration Tools
 🗨️ Real-time chat & discussion forums
