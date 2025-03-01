@@ -10,22 +10,20 @@ Mentor Hub is a collaborative platform designed for students, professionals, and
 ⚡ Enhance teamwork & productivity<br>
 
 <h3>Features ✨</h3><br>
-🔹 User Management<br>
-Secure user authentication & authorization (JWT-based login/signup)<br>
-Role-based access control for mentors, students, and admins<br>
-User profile management with editable details<br>
+<h3>🔹User Management</h3><br>
+Secure user authentication & authorization (JWT-based login/signup). Role-based access control for mentors, students, and admins. User profile management with editable details
 
-<h3>🔹 Project & Task Management</h3><br>
+<h3>🔹Project & Task Management</h3><br>
 📌 Create & manage projects with descriptions, deadlines, and assigned teams<br>
 📝 Task assignment with priorities, due dates, and status updates<br>
 📊 Kanban Board & Gantt Chart Integration for workflow visualization<br>
 🔔 Real-time notifications & reminders<br>
 📂 File & Document sharing for project resources<br>
 
-🔹 Collaboration Tools
-🗨️ Real-time chat & discussion forums
-📣 Mentor feedback & progress review system
-📢 Announcements & team communication
+<h3>🔹Collaboration Tools</h3><br>
+🗨️ Real-time chat & discussion forums<br>
+📣 Mentor feedback & progress review system<br>
+📢 Announcements & team communication<br>
 
 🔹 Dashboard & Insights
 📈 Project analytics – track progress, completion rates, and productivity metrics
