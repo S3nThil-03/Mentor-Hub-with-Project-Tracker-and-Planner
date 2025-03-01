@@ -10,7 +10,7 @@ Mentor Hub is a collaborative platform designed for students, professionals, and
 ⚡ Enhance teamwork & productivity
 
 <h3>Features ✨</h3>
-<h3>🔹User Management</h3><br>
+<h3>🔹User Management</h3>
 Secure user authentication & authorization (JWT-based login/signup). Role-based access control for mentors, students, and admins. User profile management with editable details
 
 <h3>🔹Project & Task Management</h3>
