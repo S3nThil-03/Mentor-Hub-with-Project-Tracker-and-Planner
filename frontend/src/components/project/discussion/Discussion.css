@@ -1,0 +1,76 @@
+.discussion-row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 0 10px 0 !important;
+}
+.discussion-row .col {
+    display: grid;
+    padding: 0;
+}
+
+.discussion-row__image {
+    width: 6% !important;
+}
+
+.discussion-row__image img {
+    margin-left: 10px;
+}
+
+.discussion-row__text {
+    width: 94% !important;
+}
+
+.discussion-row__text p{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width: 1130px) {
+    .discussion-row__image {
+        width: 8% !important;
+    }
+
+    .discussion-row__text {
+        width: 92% !important;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .discussion-row__image {
+        width: 10% !important;
+    }
+
+    .discussion-row__text {
+        width: 90% !important;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .discussion-row__image {
+        width: 12% !important;
+    }
+
+    .discussion-row__text {
+        width: 88% !important;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .discussion-row__image {
+        width: 15% !important;
+    }
+
+    .discussion-row__text {
+        width: 85% !important;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .discussion-row__image {
+        width: 18% !important;
+    }
+
+    .discussion-row__text {
+        width: 82% !important;
+    }
+}

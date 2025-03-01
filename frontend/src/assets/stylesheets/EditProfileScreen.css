@@ -1,0 +1,27 @@
+/*.edit_profile .profile_avatar {*/
+/*    !*To center the image*!*/
+/*    display: block;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*}*/
+.edit_profile .btn {
+    margin-top: 20px;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.edit_profile__details {
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+/*@media only screen and (max-width: 400px) {*/
+/*    .edit_profile .profile_avatar {*/
+/*        width: 200px !important;*/
+/*        height: 200px !important;*/
+/*    }*/
+/*}*/

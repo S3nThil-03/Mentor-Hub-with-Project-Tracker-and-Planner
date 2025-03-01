@@ -1,0 +1,12 @@
+.activity .date {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.activity .date, .month, .year {
+    text-align: center;
+}
+
+.activity p {
+    margin: 0;
+}
