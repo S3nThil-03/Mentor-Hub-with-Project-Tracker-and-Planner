@@ -1,6 +1,6 @@
 <h1>Mentor Hub - Project Tracker & Planner 🚀</h1>
 
-vashanth
+
 <h3>Overview 🎯</h3>
 
 <p>Mentor Hub is a collaborative platform designed for students, professionals, and academic institutions to mentor, track, and manage projects efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this system provides an interactive environment where mentors and teams can:</p>
