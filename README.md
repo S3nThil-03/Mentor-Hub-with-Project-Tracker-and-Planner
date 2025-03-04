@@ -1,4 +1,4 @@
-<h2>Mentor Hub - Project Tracker & Planner 🚀</h2>
+<h1>Mentor Hub - Project Tracker & Planner 🚀</h1>
 
 <h3>Overview 🎯</h3>
 
